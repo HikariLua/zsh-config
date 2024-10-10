@@ -1,0 +1,1 @@
+/home/hikari-lua/.p10k.zsh

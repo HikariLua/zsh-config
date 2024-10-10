@@ -1,0 +1,1 @@
+/home/hikari-lua/.zshrc
